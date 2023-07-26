@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.example.findifyfirebase;
 
 import org.junit.Test;
 
